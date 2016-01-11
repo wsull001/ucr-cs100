@@ -1,5 +1,6 @@
 ## cs100 - open source software construction
-
+My house is a very very very fine house
+This is my line song
 This is a course on [how to be a hacker](http://www.catb.org/esr/faqs/hacker-howto.html).
 Being a hacker [means a lot of things](http://www.catb.org/jargon/html/H/hacker.html).
 It means:
